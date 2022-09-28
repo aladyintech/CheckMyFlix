@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px;
+  font-size: 16px;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+td {
+  vertical-align: top;
+}
+
+.method {
+  background: #f4f4f4;
+  border: 1px solid #888;
+  border-radius: 10%;
+  padding: 8px;
+}
+.example {
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    color: #666;
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 1.4;
+    margin-bottom: 1.6em;
+    max-width: 100%;
+    overflow: auto;
+    padding: 1em 1.5em;
+    display: block;
+    word-wrap: break-word;
+}
