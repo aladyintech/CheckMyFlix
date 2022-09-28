@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samia-gits-it/ACH2.git"
+    "url": "git@github.com:samia-gits-it/CheckMyFlix.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/samia-gits-it/ACH2/issues"
+    "url": "https://github.com/samia-gits-it/CheckMyFlix/issues"
   },
   "homepage": "https://github.com/samia-gits-it/movie_api#readme",
   "dependencies": {
